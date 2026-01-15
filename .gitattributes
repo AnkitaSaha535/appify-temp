@@ -1,2 +1,3 @@
 *.dart linguist-vendored
 .temp/* linguist-vendored
+*.nix linguist-vendored
