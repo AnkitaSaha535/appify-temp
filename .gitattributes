@@ -2,3 +2,4 @@
 .temp/* linguist-vendored
 *.nix linguist-vendored
 *.html linguist-vendored
+*.css linguist-vendored
